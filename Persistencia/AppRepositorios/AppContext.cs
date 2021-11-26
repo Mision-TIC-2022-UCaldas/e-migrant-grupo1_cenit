@@ -3,12 +3,12 @@ using Dominio.Entidades;
 
 
 
-namespace Persistencia
+namespace  Persistencia
 {
     public class AppContext : DbContext
 
     {
-        public DbSet<Migrantes> migrantes {get; set;}
+        public DbSet<Migrantes> Migrantes {get; set;}
       
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

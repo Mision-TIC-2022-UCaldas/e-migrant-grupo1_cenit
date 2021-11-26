@@ -34,3 +34,15 @@ C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\obj\Debug\net5.0\Dominio.pdb
