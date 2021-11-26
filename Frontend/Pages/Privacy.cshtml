@@ -1,0 +1,61 @@
+@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Calculador IMC</title>
+</head>
+
+<body>
+<table width="200" align="center">
+  
+  <tr>
+    <td align="center">  <h1> Calculadora </h1></td>
+  </tr>
+  <tr>
+    <td align="center"> 
+    
+      <table width="200">
+         <tr>
+             <td> <p> Ingrese peso</p></td>
+            <td><input type ="text" id= "Numero1" size ="5"></td>
+            <td> <p> Ingrese estatura</p></td>
+            <td><input type ="text" id= "Numero2" size ="5"></td>
+            <td><input type = "button" value="Calcular" onclick= "calcular()"></td>
+        </tr>
+      </table>
+    
+    </td>
+  </tr>
+</table>
+  
+  
+<script type= "text/javascript">
+
+
+  function calcular(){
+	  
+	var num1= parseInt(document.getElementById("Numero1").value);
+    var peso=Numero1.value;
+	var num2= parseInt( document.getElementById('Numero2').value);
+    var estatura=Numero.value;
+
+    var imc =peso/ (estatura*estatura);
+    alert (imc);
+
+
+	
+	
+	
+
+
+
+
+  }
+  </script>
+  
+</body>
+</html>
