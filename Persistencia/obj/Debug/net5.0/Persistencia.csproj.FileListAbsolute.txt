@@ -67,5 +67,4 @@ C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\D
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Dominio.dll
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Dominio.pdb
-C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

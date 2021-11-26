@@ -1,0 +1,71 @@
+﻿@page
+@model Frontend.Pages.EditMigrantesModel
+@{
+    int migrantesId=Model.Migrantes.Id;
+}
+<h2>Editar Datos Migrantes</h2>
+<form method="post">
+    <input type="hidden" asp-for="Migrantes.Id"/>
+
+        <div class="for-group">
+        <label asp-for="Migrantes.nombre"></label>
+        <input asp-for="Migrantes.nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.nombre"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Migrantes.apellidos "></label>
+        <input asp-for="Migrantes.apellidos" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.apellidos"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Migrantes.tipo_documento  "></label>
+        <input asp-for="Migrantes.tipo_documento " class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.tipo_documento"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Migrantes.numero_documento"></label>
+        <input asp-for="Migrantes.numero_documento" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.numero_documento"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Migrantes.pais"></label>
+        <input asp-for="Migrantes.pais" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.pais"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Migrantes.fecha_nacimiento"></label>
+        <input asp-for="Migrantes.fecha_nacimiento" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.fecha_nacimiento"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Migrantes.correo"></label>
+        <input asp-for="Migrantes.correo" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.correo"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Migrantes.telefono"></label>
+        <input asp-for="Migrantes.telefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.telefono"></span>        
+    </div>
+     <div class="for-group">
+        <label asp-for="Migrantes.direccion"></label>
+        <input asp-for="Migrantes.direccion" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.direccion"></span>        
+    </div>
+     <div class="for-group">
+        <label asp-for="Migrantes.ciudad"></label>
+        <input asp-for="Migrantes.ciudad" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.ciudad"></span>        
+    </div>
+     <div class="for-group">
+        <label asp-for="Migrantes.situacion_laboral"></label>
+        <input asp-for="Migrantes.situacion_laboral" class="form-control">
+        <span class="text-danger" asp-validation-for="Migrantes.situacion_laboral"></span>        
+    </div>
+
+     <button type="submit" class="btn btn-primary">Guardar</button>
+     <a href="/MisPaginas/Migrantes" class="btn-ghost secondary round"> Volver</a>
+
+</form>
+
+
