@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "FNzG3JztOdxKczokGeLDUvm3YduBKIHJU9dujs+gvI/83kYr6VVVRemtITWPuDucpMSm93TXcC/uvu0CTRXnkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+=======
   "dgSpecHash": "0/EEZANrdhPCuKD3i0E0O4Ovci/VuTBDSmqU6Cc62VNNuXbGEx7h+ESDoMEN2Nkq2RoDo+5nbC5iKfIpNK4flA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -106,7 +112,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problema al leer el archivo de caché C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
       "message": "Problema al leer el archivo de caché C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
     }
   ]
 }

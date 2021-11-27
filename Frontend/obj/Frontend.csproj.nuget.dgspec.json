@@ -1,7 +1,11 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {}
+=======
     "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {}
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
   },
   "projects": {
     "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
@@ -58,14 +62,24 @@
         }
       }
     },
+<<<<<<< HEAD
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {
+=======
     "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\57313\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\",
+=======
         "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\",
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

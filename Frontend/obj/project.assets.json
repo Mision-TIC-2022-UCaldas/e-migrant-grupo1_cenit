@@ -5875,7 +5875,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problema al leer el archivo de caché C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
       "message": "Problema al leer el archivo de caché C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
     }
   ]
 }
