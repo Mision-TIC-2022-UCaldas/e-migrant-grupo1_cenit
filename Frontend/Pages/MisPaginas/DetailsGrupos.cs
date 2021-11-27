@@ -25,7 +25,7 @@ namespace Frontend.Pages
             Grupo = RepositorioGrupo.GetGrupo(grupoId);
             if(Grupo==null)
             {
-                return RedirectToPage("./NotFound");
+                return RedirectToPage("./Login");
             }
             else
             {
