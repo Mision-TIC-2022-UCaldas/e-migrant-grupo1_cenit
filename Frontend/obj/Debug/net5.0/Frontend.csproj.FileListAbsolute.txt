@@ -74,6 +74,10 @@ C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\bin\Debug
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\bin\Debug\net5.0\Dominio.pdb
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditMigrantes.cshtml.g.cs
+<<<<<<< HEAD
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditGrupo.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs
+=======
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\bin\Debug\net5.0\appsettings.json
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -227,3 +231,4 @@ C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
+>>>>>>> 40c9d1e273823e4988c4aa4be47a71db136b9de7

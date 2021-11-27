@@ -1,0 +1,46 @@
+﻿@page
+@model Frontend.Pages.GrupoModel
+@{
+}
+<h>INGRESAR GRUPOS</h>
+
+<table class="table">
+    @foreach (var Grupo in Model.Grupo)
+    {
+        <tr>
+            <td>@Grupo.tipo_documento</td>
+            <td>@Grupo.numero_documento</td>
+            <td>@Grupo.nombre</td>
+            <td>@Grupo.apellidos</td>
+            <td>@Grupo.telefono</td>
+            <td>@Grupo.correo</td>
+            <td>@Grupo.cercania</td>
+            
+
+
+            
+            <td>
+                <a class = "btn btn-primary table-btn" asp-page="./DetailsAgro" asp-route-GruposId="@Grupo.Id">
+                    <i class="fas fa-info-circle fa-lg" ></i>
+                </a>                
+            </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./EditGrupo" asp-route-Grupo="@Grupo.Id">
+                <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+              
+            </td>
+        </tr>
+        
+    }
+
+
+
+
+
+</table>
+<a asp-page="./EditMigrantes" class="btn btn-primary">Adicionar Migrantes</a>
+
+<div class = "btn-item">  
+       <center>  <a href="/MisPaginas/Registro" class="btn-ghost round"> CREAR Migrantes </a></center>
+     </div>

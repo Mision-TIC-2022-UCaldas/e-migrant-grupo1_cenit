@@ -37,7 +37,7 @@ namespace  Persistencia.AppRepositorios
                 migrantesAdicionado.direccion = migrantes.direccion;
                 migrantesAdicionado.ciudad = migrantes.ciudad;
                 migrantesAdicionado.situacion_laboral = migrantes.situacion_laboral;
-                
+                migrantesAdicionado.contraseña=migrantes.contraseña;
 
                 _appContext.SaveChanges();                                        
             }

@@ -9,6 +9,7 @@ namespace  Persistencia
 
     {
         public DbSet<Migrantes> Migrantes {get; set;}
+        public DbSet<Grupo> Grupo {get; set;}
 
         public DbSet<Necesidades> Necesidades {get; set;}
 
