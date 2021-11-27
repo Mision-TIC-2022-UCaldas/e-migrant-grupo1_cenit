@@ -236,3 +236,6 @@ C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Login.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Login.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsGrupos.cshtml.g.cs

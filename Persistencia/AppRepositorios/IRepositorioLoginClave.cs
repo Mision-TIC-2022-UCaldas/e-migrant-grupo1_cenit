@@ -9,7 +9,7 @@ namespace Persistencia.AppRepositorios
 {
     public interface IRepositorioLoginClave
     {
-        bool GetLogin(string User, string Pass);
+        bool GetLogin(string numero_documento, string Pass);
         //ListaLogin AddListaLogin(ListaLogin listalogin);
         //ListaLogin list22 ();        
     }

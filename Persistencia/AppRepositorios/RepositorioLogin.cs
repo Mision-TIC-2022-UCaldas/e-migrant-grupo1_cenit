@@ -8,19 +8,19 @@ namespace Persistencia.AppRepositorios
 {
     public class RepositorioLogin : IRepositorioLoginClave
     {
-        List<ListaLogin> listado3 = new List<ListaLogin>()
+        List<ListaLogin> Migrantes = new List<ListaLogin>()
             {
-                new ListaLogin{User="jarias", Pass="5541"},
-                new ListaLogin{User="davidf", Pass="1133"}
+                new ListaLogin{numero_documento=" ", contraseña=" "},
+                
             };     
      
-        public bool GetLogin(string user, string pass)
+        public bool GetLogin(string numero_documento, string contraseña)
         {
-          foreach (ListaLogin adress in listado3)
+          foreach (ListaLogin adress in Migrantes)
           {
 
-              if (adress.User == user){
-                  if (adress.Pass == pass){
+              if (adress.numero_documento == numero_documento){
+                  if (adress.contraseña == contraseña){
                       return true;
                   }
               }              
