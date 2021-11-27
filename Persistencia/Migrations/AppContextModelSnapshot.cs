@@ -18,6 +18,39 @@ namespace Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
+            modelBuilder.Entity("Dominio.Entidades.Entidad", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("ciudad")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("correo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("nit")
+                        .HasColumnType("int");
+
+                    b.Property<string>("nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("sector")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("telefono")
+                        .HasColumnType("int");
+
+                    b.Property<string>("tipo_servicio")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Entidad");
+                });
+
             modelBuilder.Entity("Dominio.Entidades.Grupo", b =>
                 {
                     b.Property<int>("Id")

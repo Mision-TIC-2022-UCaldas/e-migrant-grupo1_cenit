@@ -1,0 +1,52 @@
+﻿@page
+@model Frontend.Pages.EditEntidadModel
+@{
+    int entidadId=Model.Entidad.Id;
+}
+<h2>Editar Datos Grupo</h2>
+<form method="post">
+    <input type="hidden" asp-for="Entidad.Id"/>
+
+        <div class="for-group">
+        <label asp-for="Entidad.nombre"> Tipo de documento </label>
+        <input asp-for="Entidad.nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.nombre"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Entidad.nit "></label>
+        <input asp-for="Entidad.nit" class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.nit"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Entidad.ciudad  "></label>
+        <input asp-for="Entidad.ciudad " class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.ciudad"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Entidad.telefono"></label>
+        <input asp-for="Entidad.telefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.telefono"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Entidad.correo"></label>
+        <input asp-for="Entidad.correo" class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.correo"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Entidad.sector"></label>
+        <input asp-for="Entidad.sector" class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.sector"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Entidad.tipo_servicio"></label>
+        <input asp-for="Entidad.tipo_servicio" class="form-control">
+        <span class="text-danger" asp-validation-for="Entidad.tipo_servicio"></span>        
+    </div>
+    
+     <button type="submit" class="btn btn-primary">Guardar</button>
+     <a href="/MisPaginas/DetailsGrupos" class="btn-ghost secondary round"> Volver</a>
+
+</form>
+
+
+

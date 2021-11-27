@@ -7,31 +7,30 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Authorization;
 using Dominio.Entidades;
 using Persistencia.AppRepositorios;
-
 namespace Frontend.Pages
 {
-    public class EditGrupoModel : PageModel
+    public class EditEntidadModel : PageModel
     {
-    private readonly IRepositorioGrupo repositorioGrupo;
+private readonly IRepositorioEntidad repositorioEntidad;
         [BindProperty]
 
-        public Grupo Grupo {set; get;}
+        public Entidad Entidad {set; get;}
 
-        public EditGrupoModel ()
+        public EditEntidadModel ()
         {
-            this.repositorioGrupo = new RepositorioGrupo(new Persistencia.AppContext());
+            this.repositorioEntidad = new RepositorioEntidad(new Persistencia.AppContext());
         }
-        public IActionResult OnGet(int? grupoId)
+        public IActionResult OnGet(int? entidadId)
         {
-            if (grupoId.HasValue)
+            if (entidadId.HasValue)
             {
-                Grupo = repositorioGrupo.GetGrupo(grupoId.Value);
+                Entidad = repositorioEntidad.GetEntidad(entidadId.Value);
             }
             else 
             {
-                Grupo = new Grupo();
+                Entidad = new Entidad();
             }
-            if (Grupo == null)
+            if (Entidad == null)
             {
                 return RedirectToPage("./Notfound");                
             }
@@ -47,16 +46,15 @@ namespace Frontend.Pages
             {
                 return Page();
             }
-            if (Grupo.Id>0)
+            if (Entidad.Id>0)
             {
-                Grupo= repositorioGrupo.UpdateGrupo(Grupo);
+                Entidad= repositorioEntidad.UpdateEntidad(Entidad);
             }
             else
             {
-                repositorioGrupo.AddGrupo(Grupo);
+                repositorioEntidad.AddEntidad(Entidad);
             }
             return Page();
-        }        
-        
+        }  
     }
 }

@@ -87,7 +87,6 @@ C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\ne
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
 <<<<<<< HEAD
-C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 =======
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json

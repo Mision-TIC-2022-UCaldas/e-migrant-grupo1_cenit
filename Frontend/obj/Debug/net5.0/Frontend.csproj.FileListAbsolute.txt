@@ -236,7 +236,6 @@ C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Login.cshtml.g.cs
-<<<<<<< HEAD
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\bin\Debug\net5.0\appsettings.json
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\bin\Debug\net5.0\Frontend.exe
@@ -318,12 +317,12 @@ C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\ref\Frontend.dll
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.pdb
 C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
-=======
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Login.cshtml.g.cs
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsGrupos.cshtml.g.cs
-<<<<<<< HEAD
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsGrupos.cshtml.g.cs
-=======
 >>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
 >>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsMigrantes.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditEntidad.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Entidad.cshtml.g.cs
