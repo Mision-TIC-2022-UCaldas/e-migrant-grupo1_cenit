@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj": {}
   },
   "projects": {
@@ -12,13 +13,34 @@
         "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {}
+=======
+    "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {}
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,25 +80,53 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
     "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj": {
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<< HEAD
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {
+=======
+    "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj": {
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
         "projectName": "Frontend",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\obj\\",
+=======
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\57313\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\",
+=======
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\",
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,11 +140,19 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
               },
               "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {
                 "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj"
+=======
+              "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
               }
             }
           }
@@ -134,7 +192,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         }
       }
     },
@@ -143,16 +205,26 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\",
+=======
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,8 +238,13 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
               }
             }
           }
@@ -218,7 +295,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         }
       }
     }

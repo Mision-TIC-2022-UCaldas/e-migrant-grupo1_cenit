@@ -230,8 +230,14 @@ C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.Views.pdb
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.csproj.CopyComplete
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Frontend.genruntimeconfig.cache
-C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
 >>>>>>> 40c9d1e273823e4988c4aa4be47a71db136b9de7
+<<<<<<< HEAD
+C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditGrupo.cshtml.g.cs
+C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs
+C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades\EditNecesidades.cshtml.g.cs
+C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades\Necesidades.cshtml.g.cs
+C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Servicios\Servicios.cshtml.g.cs
+=======
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditGrupo.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
@@ -323,6 +329,11 @@ C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsGrupos.cshtml.g.cs
 >>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
 >>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+<<<<<<< HEAD
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsMigrantes.cshtml.g.cs
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditEntidad.cshtml.g.cs
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Entidad.cshtml.g.cs
+=======
+C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\DetailsMigrantes.cshtml.g.cs
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3

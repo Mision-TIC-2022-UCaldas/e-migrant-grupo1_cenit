@@ -5796,24 +5796,40 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\andresfelipe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
       "projectName": "Frontend",
       "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
       "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+      "projectName": "Frontend",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\Frontend.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5827,11 +5843,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
               "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
             },
             "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {
               "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj"
+=======
+            "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
+            },
+            "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
             }
           }
         }
@@ -5871,6 +5895,7 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
@@ -5882,5 +5907,22 @@
       "warningLevel": 1,
       "message": "Problema al leer el archivo de caché C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problema al leer el archivo de caché C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problema al leer el archivo de caché C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+    }
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
   ]
 }

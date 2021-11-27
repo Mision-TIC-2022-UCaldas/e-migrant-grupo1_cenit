@@ -1,0 +1,97 @@
+﻿@page
+@model Frontend.Pages.EditNecesidadesModel
+@{
+    int necesidadesId=Model.Necesidades.Id;
+}
+<h2>Editar Necesidades Migrantes</h2>
+<form method="post">
+    <input type="hidden" asp-for="Necesidades.Id"/>
+
+        <div class="for-group">
+        <label asp-for="Necesidades.Salud"> Descripcion Salud</label>
+        <input asp-for="Necesidades.Salud" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Salud"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Salud"> Clasificacion Salud</label>
+        <input asp-for="Necesidades.Clasificacion_Salud" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Salud"></span>  
+         <form>
+                    <input type="checkbox" id="idMigrantes" name="idMigrantes" >
+                    <label for="idMigrantes"> Baja </label><br>
+                    <input type="checkbox" id="idMigrantes" name="idMigrantes" >
+                    <label for="idMigrantes">Media </label><br>
+                    <input type="checkbox" id="idMigrantes" name="idMigrantes" >
+                    <label for="idMigrantes">Alta </label>
+                </form>      
+    </div>
+        <div class="for-group">
+        <label asp-for="Necesidades.Alimentacion"> Descripcion Alimentacion</label>
+        <input asp-for="Necesidades.Alimentacion" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Alimentacion"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Alimentacion"> Clasificacion Alimentacion</label>
+        <input asp-for="Necesidades.Clasificacion_Alimentacion" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Alimentacion"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Necesidades.Empleo"> Descripcion Empleo</label>
+        <input asp-for="Necesidades.Empleo" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Empleo"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Empleo"> Clasificacion Empleo</label>
+        <input asp-for="Necesidades.Clasificacion_Empleo" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Empleo"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Necesidades.Alojamiento_temporal"> Descripcion Alojamineto temporal</label>
+        <input asp-for="Necesidades.Alojamiento_temporal" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Alojamiento_temporal"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Alojamiento_temporal"> Clasificacion Alojamiento temporal</label>
+        <input asp-for="Necesidades.Clasificacion_Alojamiento_temporal" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Alojamiento_temporal"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Necesidades.Alojamiento_permanente"> Descripcion Alojamineto permanete</label>
+        <input asp-for="Necesidades.Alojamiento_permanente" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Alojamiento_permanente"></span>        
+    </div>
+    
+
+    <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Alojamiento_permanente"> Clasificacion Alojamineto permanete</label>
+        <input asp-for="Necesidades.Clasificacion_Alojamiento_permanente" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Alojamiento_permanente"></span>        
+    </div>
+
+    <div class="for-group">
+        <label asp-for="Necesidades.Educacion"> Descripcion Educacion</label>
+        <input asp-for="Necesidades.Educacion" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Educacion"></span>        
+    </div>
+
+    <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Educacion"> Clasificacion  Educacion</label>
+        <input asp-for="Necesidades.Clasificacion_Educacion" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Educacion"></span>        
+    </div>
+
+    <div class="for-group">
+        <label asp-for="Necesidades.Ayuda_legal"> Descripcion Ayuda legal</label>
+        <input asp-for="Necesidades.Ayuda_legal" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Ayuda_legal"></span>        
+    </div>
+
+    <div class="for-group">
+        <label asp-for="Necesidades.Clasificacion_Ayuda_legal"> Clasificacion Ayuda Legal</label>
+        <input asp-for="Necesidades.Clasificacion_Ayuda_legal" class="form-control">
+        <span class="text-danger" asp-validation-for="Necesidades.Clasificacion_Ayuda_legal"></span>        
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+     <a href="/MisPaginas/Necesidades" class="btn-ghost secondary round"> Volver</a>
+</form>

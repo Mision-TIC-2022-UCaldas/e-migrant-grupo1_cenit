@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+=======
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\57313\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\57313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +76,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         }
       }
     }

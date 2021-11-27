@@ -1,15 +1,25 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "WNlIqOYk65oqgdYJS1itFlU9B914Urr1U0k9hBlHhAWC02fp18uXUfDW9ST2kapak5wWdyhueH7fQFchFl61Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+=======
+  "dgSpecHash": "fnzX3x6Z+fF+EnYSCC5ORj5OZzcTl8gsIBW+TO8RY7jLUFZ4ynK16OqiTnbXgFREtX+/uQoPAvub1nh+3Nvd/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problema al leer el archivo de caché C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problema al leer el archivo de caché C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
     }
   ]
 }

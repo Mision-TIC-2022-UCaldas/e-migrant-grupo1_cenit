@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
@@ -12,12 +13,58 @@
         "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\persistencia\\Persistencia.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {}
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Alejito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+=======
+    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {}
+>>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+>>>>>>> 02442dc5c9b5a985b3b038ddaf8ba3d5d0114b5b
+>>>>>>> fa1a87735ab7d2f3f8e35f95a038c44ca1561d90
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+  },
+  "projects": {
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\57313\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\57313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,6 +105,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
@@ -70,12 +118,60 @@
         "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<< HEAD
+    "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {
+=======
+<<<<<<< HEAD
+    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\persistencia\\Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\persistencia\\obj\\",
+=======
+    "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj": {
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+<<<<<<< HEAD
+        "projectPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\57313\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\",
+=======
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\",
+<<<<<<< HEAD
+=======
+=======
+        "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\",
+>>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
+>>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+>>>>>>> 02442dc5c9b5a985b3b038ddaf8ba3d5d0114b5b
+>>>>>>> fa1a87735ab7d2f3f8e35f95a038c44ca1561d90
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\57313\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +186,13 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
+=======
+              "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
               }
             }
           }
@@ -142,7 +243,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+>>>>>>> 5a350103726fcfaabb12f7fe843e46e99acb2ce3
         }
       }
     }

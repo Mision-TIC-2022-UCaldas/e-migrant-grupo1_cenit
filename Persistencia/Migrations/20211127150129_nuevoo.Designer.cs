@@ -2,54 +2,23 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Persistencia;
 
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    partial class AppContextModelSnapshot : ModelSnapshot
+    [Migration("20211127150129_nuevoo")]
+    partial class nuevoo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .UseIdentityColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
-
-            modelBuilder.Entity("Dominio.Entidades.Entidad", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .UseIdentityColumn();
-
-                    b.Property<string>("ciudad")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("correo")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("nit")
-                        .HasColumnType("int");
-
-                    b.Property<string>("nombre")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("sector")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("telefono")
-                        .HasColumnType("int");
-
-                    b.Property<string>("tipo_servicio")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Entidad");
-                });
 
             modelBuilder.Entity("Dominio.Entidades.Grupo", b =>
                 {
@@ -84,31 +53,24 @@ namespace Persistencia.Migrations
                     b.ToTable("Grupo");
                 });
 
-<<<<<<< HEAD
-            modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
-=======
-<<<<<<< HEAD
-=======
             modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
->>>>>>> 4c4504a73e8403c3fcc8b84dadae58d42899faa4
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("Discriminator")
-                        .IsRequired()
+                    b.Property<string>("Pass")
                         .HasColumnType("nvarchar(max)");
 
-<<<<<<< HEAD
-=======
+                    b.Property<string>("User")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("ListaLogin");
                 });
 
->>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
             modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
                 {
                     b.Property<int>("Id")
@@ -116,11 +78,6 @@ namespace Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("Discriminator")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
->>>>>>> 4c4504a73e8403c3fcc8b84dadae58d42899faa4
                     b.Property<string>("apellidos")
                         .HasColumnType("nvarchar(max)");
 
@@ -160,8 +117,6 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Migrantes");
-
-                    b.HasDiscriminator<string>("Discriminator").HasValue("Migrantes");
                 });
 
             modelBuilder.Entity("Dominio.Entidades.Necesidades", b =>
@@ -216,19 +171,6 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Necesidades");
-                });
-
-            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
-                {
-                    b.HasBaseType("Dominio.Entidades.Migrantes");
-
-                    b.Property<string>("Pass")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("User")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasDiscriminator().HasValue("ListaLogin");
                 });
 #pragma warning restore 612, 618
         }
