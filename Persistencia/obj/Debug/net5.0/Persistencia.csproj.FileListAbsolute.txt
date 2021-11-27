@@ -86,4 +86,25 @@ C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\ne
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Dominio.pdb
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
 C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+=======
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Dominio.dll
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+>>>>>>> 02442dc5c9b5a985b3b038ddaf8ba3d5d0114b5b

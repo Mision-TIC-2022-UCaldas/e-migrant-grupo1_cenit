@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "PdtduMN79yM3UnNiySY0LYA30utunOBcx1ho2/zPM/mkotRxxKWBd6k05cmAD61m+RMvlPyPxbmDBuCBuXFO+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "11EMmsNh03i/5ORs33KWA7YmrHMHdGVDwMfSQMR6yCO8c159C7KB2G+hvb4ypK6UjD7DzJCd1eUHYemQC6HFbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+=======
   "dgSpecHash": "WNlIqOYk65oqgdYJS1itFlU9B914Urr1U0k9hBlHhAWC02fp18uXUfDW9ST2kapak5wWdyhueH7fQFchFl61Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
+>>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
+>>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
   "expectedPackageFiles": [],
   "logs": []
 }
