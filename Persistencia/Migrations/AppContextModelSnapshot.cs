@@ -61,8 +61,6 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Migrantes");
-<<<<<<< HEAD
-=======
                 });
 
             modelBuilder.Entity("Dominio.Entidades.Necesidades", b =>
@@ -96,7 +94,6 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Necesidades");
->>>>>>> 40c9d1e273823e4988c4aa4be47a71db136b9de7
                 });
 #pragma warning restore 612, 618
         }
