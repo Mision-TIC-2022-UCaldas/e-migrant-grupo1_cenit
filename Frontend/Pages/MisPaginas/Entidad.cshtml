@@ -1,0 +1,44 @@
+﻿@page
+@model Frontend.Pages.EntidadModel
+@{
+}
+<h>Ingresar Entidad</h>
+
+<table class="table">
+    @foreach (var Entidad in Model.Entidad)
+    {
+        <tr>
+            <td>@Entidad.nombre</td>
+            <td>@Entidad.nit</td>
+            <td>@Entidad.ciudad</td>
+            <td>@Entidad.telefono</td>
+            <td>@Entidad.correo</td>
+            <td>@Entidad.sector</td>
+            <td>@Entidad.tipo_servicio</td>
+            
+
+
+            
+            <td>
+                <a class = "btn btn-primary table-btn" asp-page="./DetailsAgro" asp-route-MigrantesId="@Migrantes.Id">
+                    <i class="fas fa-info-circle fa-lg" ></i>
+                </a>                
+            </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./EditAgro" asp-route-Migrantes="@Migrantes.Id">
+                <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+              
+            </td>
+        </tr>
+        
+    }
+
+
+
+
+
+</table>
+<a asp-page="./EditMigrantes" class="btn btn-primary">Registrar</a>
+
+

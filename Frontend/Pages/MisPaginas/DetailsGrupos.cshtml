@@ -1,0 +1,29 @@
+﻿@page
+@model Frontend.Pages.DetailsGrupoModel
+@{
+}
+<h2>DATOS Grupos</h2>
+
+<div>
+    tipo_documento : @Model.Grupo.tipo_documento
+</div>
+<div>
+    numero_documento: @Model.Grupo.numero_documento
+</div>
+<div>
+    nombre: @Model.Grupo.nombre
+</div>
+<div>
+    apellidos: @Model.Grupo.apellidos
+</div>
+<div>
+    telefono: @Model.Grupo.telefono
+</div>
+<div>
+    correo: @Model.Grupo.correo
+</div>
+<div>
+    cercania: @Model.Grupo.cercania
+</div>
+
+<a asp-page=".List" class="btn-default">Volver</a>

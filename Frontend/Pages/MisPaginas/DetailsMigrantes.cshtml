@@ -1,0 +1,44 @@
+﻿@page
+@model Frontend.Pages.DetailsMigrantesModel
+@{
+}
+<h2>DATOS MIGRANTES</h2>
+
+<div>
+    nombre: @Model.Migrantes.nombre
+</div>
+<div>
+    apellidos: @Model.Migrantes.apellidos
+</div>
+<div>
+    tipo_documento: @Model.Migrantes.tipo_documento
+</div>
+<div>
+    numero_documento: @Model.Migrantes.numero_documento
+</div>
+<div>
+    pais : @Model.Migrantes.pais
+</div>
+<div>
+    fecha_nacimiento : @Model.Migrantes.fecha_nacimiento
+</div>
+<div>
+    correo : @Model.Migrantes.correo
+</div>
+<div>
+    telefono : @Model.Migrantes.telefono
+</div>
+<div>
+    direccion : @Model.Migrantes.direccion
+</div>
+<div>
+    ciudad  : @Model.Migrantes.ciudad
+</div>
+<div>
+    situacion_laboral  : @Model.Migrantes.situacion_laboral
+<div>
+    contraseña: @Model.Migrantes.contraseña
+</div>
+
+
+<a asp-page="./Agroquimicos" class="btn btn-primary">Volver </a>
