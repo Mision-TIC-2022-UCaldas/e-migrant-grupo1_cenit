@@ -2,7 +2,7 @@
 
 namespace Persistencia.Migrations
 {
-    public partial class ere : Migration
+    public partial class nuevoo : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -26,6 +26,20 @@ namespace Persistencia.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "ListaLogin",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    User = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Pass = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ListaLogin", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Migrantes",
                 columns: table => new
                 {
@@ -42,10 +56,7 @@ namespace Persistencia.Migrations
                     direccion = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     ciudad = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     situacion_laboral = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    contraseña = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Discriminator = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    User = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Pass = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    contraseña = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -83,6 +94,9 @@ namespace Persistencia.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Grupo");
+
+            migrationBuilder.DropTable(
+                name: "ListaLogin");
 
             migrationBuilder.DropTable(
                 name: "Migrantes");

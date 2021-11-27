@@ -51,16 +51,30 @@ namespace Persistencia.Migrations
                     b.ToTable("Grupo");
                 });
 
-            modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
+            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<string>("Discriminator")
-                        .IsRequired()
+                    b.Property<string>("Pass")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ListaLogin");
+                });
+
+            modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
 
                     b.Property<string>("apellidos")
                         .HasColumnType("nvarchar(max)");
@@ -101,8 +115,6 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Migrantes");
-
-                    b.HasDiscriminator<string>("Discriminator").HasValue("Migrantes");
                 });
 
             modelBuilder.Entity("Dominio.Entidades.Necesidades", b =>
@@ -157,19 +169,6 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Necesidades");
-                });
-
-            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
-                {
-                    b.HasBaseType("Dominio.Entidades.Migrantes");
-
-                    b.Property<string>("Pass")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("User")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasDiscriminator().HasValue("ListaLogin");
                 });
 #pragma warning restore 612, 618
         }

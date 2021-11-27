@@ -7,12 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Dominio
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\
-=======
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Alejito\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\
-=======
-build_property.ProjectDir = C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\Dominio\
->>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
->>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658

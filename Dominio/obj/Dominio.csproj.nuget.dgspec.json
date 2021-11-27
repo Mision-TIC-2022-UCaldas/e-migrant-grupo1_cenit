@@ -1,24 +1,7 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
-        "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Alejito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alejito\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
-=======
-    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {}
->>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
   },
   "projects": {
     "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
@@ -26,34 +9,19 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-<<<<<<< HEAD
         "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
-=======
-        "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\obj\\",
->>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
->>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
         "projectStyle": "PackageReference",
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\Alejito\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-          "C:\\Users\\andresfelipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,15 +54,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
->>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
->>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
         }
       }
     }
