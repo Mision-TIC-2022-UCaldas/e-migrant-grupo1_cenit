@@ -19,12 +19,12 @@ namespace Frontend.Pages
             ObjetoRepositorio = Repositorio;
         }
 
-        public IActionResult OnPost(string User, string Pass)
+        public IActionResult OnPost(string numero_documento, string contraseña)
         {
             //User = user;
             //Pass = pass;
 
-            if (ObjetoRepositorio.GetLogin(User, Pass))
+            if (ObjetoRepositorio.GetLogin(numero_documento, contraseña))
             {
                 return Redirect("./Cuatro");
             }
