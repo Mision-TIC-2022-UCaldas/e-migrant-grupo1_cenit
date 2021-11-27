@@ -9,8 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211127003617_dosEntidades")]
-    partial class dosEntidades
+    [Migration("20211127024007_sgamigra")]
+    partial class sgamigra
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -31,6 +31,9 @@ namespace Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ciudad")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("contraseña")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("correo")
@@ -82,6 +85,27 @@ namespace Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Ayuda_legal")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Alimentacion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Alojamiento_permanente")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Alojamiento_temporal")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Ayuda_legal")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Educacion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Empleo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Salud")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Educacion")
