@@ -9,13 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-<<<<<<< HEAD:Persistencia/Migrations/20211127020911_aaaaa.Designer.cs
     [Migration("20211127020911_aaaaa")]
     partial class aaaaa
-=======
-    [Migration("20211127024007_sgamigra")]
-    partial class sgamigra
->>>>>>> e8e182b3f014822c5df9c2144264b84c930d73fc:Persistencia/Migrations/20211127024007_sgamigra.Designer.cs
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

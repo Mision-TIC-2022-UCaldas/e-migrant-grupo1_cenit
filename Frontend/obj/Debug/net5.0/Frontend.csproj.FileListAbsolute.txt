@@ -235,3 +235,4 @@ C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditGrupo.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs
 C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Necesidades.cshtml.g.cs
+C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\Login.cshtml.g.cs
