@@ -9,6 +9,9 @@ namespace  Persistencia
 
     {
         public DbSet<Migrantes> Migrantes {get; set;}
+
+        public DbSet<Necesidades> Necesidades {get; set;}
+
       
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
