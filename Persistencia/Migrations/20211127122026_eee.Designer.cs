@@ -9,8 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211127020911_aaaaa")]
-    partial class aaaaa
+    [Migration("20211127122026_eee")]
+    partial class eee
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -51,6 +51,24 @@ namespace Persistencia.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Grupo");
+                });
+
+            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Pass")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ListaLogin");
                 });
 
             modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
