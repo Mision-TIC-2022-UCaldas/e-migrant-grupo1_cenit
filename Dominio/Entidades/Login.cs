@@ -2,7 +2,8 @@ using System;
 
 namespace Dominio.Entidades
 {
-    
+
+  
     public class ListaLogin
     {
         public int Id {get; set;}       

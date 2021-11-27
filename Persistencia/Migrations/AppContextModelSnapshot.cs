@@ -51,6 +51,31 @@ namespace Persistencia.Migrations
                     b.ToTable("Grupo");
                 });
 
+<<<<<<< HEAD
+            modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
+=======
+<<<<<<< HEAD
+=======
+            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
+>>>>>>> 4c4504a73e8403c3fcc8b84dadae58d42899faa4
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+<<<<<<< HEAD
+=======
+                    b.HasKey("Id");
+
+                    b.ToTable("ListaLogin");
+                });
+
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
             modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
                 {
                     b.Property<int>("Id")
@@ -62,6 +87,7 @@ namespace Persistencia.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+>>>>>>> 4c4504a73e8403c3fcc8b84dadae58d42899faa4
                     b.Property<string>("apellidos")
                         .HasColumnType("nvarchar(max)");
 
