@@ -1,8 +1,24 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Hke2HKETmyyiX8JkCX+MOmJez1ONO1CPcKGK8IWiexyVJDzQpPlwWLWj+qjYIEQCgWc0lm+fc+Wy2EOa+8e7YA==",
   "success": true,
   "projectFilePath": "C:\\Users\\57313\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "lsyhnB3rEGCPLM61c2Wxq+28YZxqMkz1+5KM5L0+XsxQY6Lide/1vK4nqByh2IBvR+7TQkAMf90KEID72Fwdfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\persistencia\\Persistencia.csproj",
+=======
+<<<<<<< HEAD
+>>>>>>> fa1a87735ab7d2f3f8e35f95a038c44ca1561d90
+  "dgSpecHash": "jrlt/KbWZQ4jqoprodQrdN9RdApSFcR06ytugH/1v3suJqY4qj4ZY79wfXxhdzrxv/va1lqxBIRCJGPFwHVUyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\Persistencia.csproj",
+>>>>>>> 02442dc5c9b5a985b3b038ddaf8ba3d5d0114b5b
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
   "expectedPackageFiles": [
     "C:\\Users\\57313\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\57313\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -102,5 +118,12 @@
     "C:\\Users\\57313\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\57313\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Usuario\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Persistencia\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

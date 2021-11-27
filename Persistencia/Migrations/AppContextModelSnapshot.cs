@@ -51,6 +51,27 @@ namespace Persistencia.Migrations
                     b.ToTable("Grupo");
                 });
 
+<<<<<<< HEAD
+=======
+            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Pass")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ListaLogin");
+                });
+
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
             modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
                 {
                     b.Property<int>("Id")

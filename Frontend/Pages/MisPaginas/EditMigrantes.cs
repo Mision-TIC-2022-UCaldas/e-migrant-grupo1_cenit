@@ -33,7 +33,7 @@ namespace Frontend.Pages
             }
             if (Migrantes == null)
             {
-                return RedirectToPage("./Notfound");                
+                return RedirectToPage("./Index");                
             }
             else
             {

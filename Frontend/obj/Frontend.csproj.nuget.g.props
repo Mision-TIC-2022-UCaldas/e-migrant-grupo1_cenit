@@ -6,6 +6,7 @@
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Usuario\.nuget\packages\</NuGetPackageFolders>
 =======
 <<<<<<< HEAD
@@ -14,10 +15,14 @@
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\andresfelipe\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
 >>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
 >>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Usuario\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <SourceRoot Include="C:\Users\Usuario\.nuget\packages\" />
 =======
@@ -28,6 +33,9 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
 >>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
 >>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+=======
+    <SourceRoot Include="C:\Users\Usuario\.nuget\packages\" />
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
   </ItemGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
@@ -37,6 +45,7 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\Usuario\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
 =======
 <<<<<<< HEAD
@@ -45,5 +54,8 @@
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\andresfelipe\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
 >>>>>>> 1656f325e02e7d7a602c34898a8e05352adb7fe2
 >>>>>>> b7618fbec5d369614eed47d856fa245fa88a8658
+=======
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\Usuario\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842
   </PropertyGroup>
 </Project>

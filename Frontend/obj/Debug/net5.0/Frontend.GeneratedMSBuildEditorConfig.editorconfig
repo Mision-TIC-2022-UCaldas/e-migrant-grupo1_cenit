@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Frontend
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\57313\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\
+=======
+build_property.ProjectDir = C:\Users\Usuario\Documents\GitHub\e-migrant-grupo1_cenit\Frontend\
+>>>>>>> acc5bf4c0f0bf9323b381faf1620d392f9019842

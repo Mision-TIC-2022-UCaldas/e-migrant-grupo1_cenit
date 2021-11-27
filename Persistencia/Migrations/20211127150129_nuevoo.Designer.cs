@@ -9,8 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211127024007_sgamigra")]
-    partial class sgamigra
+    [Migration("20211127150129_nuevoo")]
+    partial class nuevoo
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -19,6 +19,57 @@ namespace Persistencia.Migrations
                 .UseIdentityColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
+
+            modelBuilder.Entity("Dominio.Entidades.Grupo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("apellidos")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("cercania")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("correo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("numero_documento")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("telefono")
+                        .HasColumnType("int");
+
+                    b.Property<string>("tipo_documento")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Grupo");
+                });
+
+            modelBuilder.Entity("Dominio.Entidades.ListaLogin", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("Pass")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ListaLogin");
+                });
 
             modelBuilder.Entity("Dominio.Entidades.Migrantes", b =>
                 {
