@@ -12,7 +12,7 @@ namespace Frontend.Pages
 {
     public class EditMigrantesModel : PageModel
     {
- private readonly IRepositorioMigracion repositorioMigracion;
+    private readonly IRepositorioMigracion repositorioMigracion;
         [BindProperty]
 
         public Migrantes Migrantes {set; get;}
