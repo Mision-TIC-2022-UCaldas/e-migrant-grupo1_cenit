@@ -74,3 +74,5 @@ C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\bin\Debug
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\bin\Debug\net5.0\Dominio.pdb
 C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\frontend\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditMigrantes.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug\net5.0\Razor\Pages\MisPaginas\EditGrupo.cshtml.g.cs
+C:\Users\andresfelipe\Documents\GitHub\e-migrant-grupo1_cenit\FRONTEND\obj\Debug\net5.0\Razor\Pages\MisPaginas\Grupo.cshtml.g.cs

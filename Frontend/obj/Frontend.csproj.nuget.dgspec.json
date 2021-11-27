@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj": {}
+    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\FRONTEND\\Frontend.csproj": {}
   },
   "projects": {
     "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\Dominio\\Dominio.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj": {
+    "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\FRONTEND\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\FRONTEND\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
+        "projectPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\FRONTEND\\Frontend.csproj",
         "packagesPath": "C:\\Users\\andresfelipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\obj\\",
+        "outputPath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\FRONTEND\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

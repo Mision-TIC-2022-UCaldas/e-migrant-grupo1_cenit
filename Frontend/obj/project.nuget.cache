@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ao3glr5yYhpFVHIhrR2qQljt1KB7JpG1Sm/pX7QsmmtmwXwJkXGVW39U1LOd4wwK5gsrFaQt3eWccYDRZqB6sQ==",
+  "dgSpecHash": "n07Cs5HRjAe0MvC1ym4YVL7YAvZFvTz1zRf8R+W+M1cYEV0LQQroXsl0EuaPuGW4pkLzkLHnEWVQ0DTXJyxfYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\frontend\\Frontend.csproj",
+  "projectFilePath": "C:\\Users\\andresfelipe\\Documents\\GitHub\\e-migrant-grupo1_cenit\\FRONTEND\\Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andresfelipe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\andresfelipe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

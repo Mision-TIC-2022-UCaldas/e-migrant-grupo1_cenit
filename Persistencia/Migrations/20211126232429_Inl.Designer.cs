@@ -9,8 +9,8 @@ using Persistencia;
 namespace Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211126205738_Inicial")]
-    partial class Inicial
+    [Migration("20211126232429_Inl")]
+    partial class Inl
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -62,7 +62,7 @@ namespace Persistencia.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("migrantes");
+                    b.ToTable("Migrantes");
                 });
 #pragma warning restore 612, 618
         }

@@ -60,7 +60,7 @@ namespace Persistencia.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("migrantes");
+                    b.ToTable("Migrantes");
                 });
 #pragma warning restore 612, 618
         }

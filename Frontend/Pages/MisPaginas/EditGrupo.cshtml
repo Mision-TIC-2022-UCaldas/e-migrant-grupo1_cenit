@@ -1,0 +1,51 @@
+﻿@page
+@model Frontend.Pages.EditGrupoModel
+@{
+    int grupoId=Model.Grupo.Id;
+}
+<h2>Editar Datos Grupo</h2>
+<form method="post">
+    <input type="hidden" asp-for="Grupo.Id"/>
+
+        <div class="for-group">
+        <label asp-for="Grupo.tipo_documento"></label>
+        <input asp-for="Grupo.tipo_documento" class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.tipo_documento"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Grupo.numero_documento "></label>
+        <input asp-for="Grupo.numero_documento" class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.numero_documento"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Grupo.nombre  "></label>
+        <input asp-for="Grupo.nombre " class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.nombre"></span>        
+    </div>
+        <div class="for-group">
+        <label asp-for="Grupo.apellidos"></label>
+        <input asp-for="Grupo.apellidos" class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.apellidos"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Grupo.telefono"></label>
+        <input asp-for="Grupo.telefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.telefono"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Grupo.correo"></label>
+        <input asp-for="Grupo.correo" class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.correo"></span>        
+    </div>
+    <div class="for-group">
+        <label asp-for="Grupo.cercania"></label>
+        <input asp-for="Grupo.cercania" class="form-control">
+        <span class="text-danger" asp-validation-for="Grupo.cercania"></span>        
+    </div>
+    
+     <button type="submit" class="btn btn-primary">Guardar</button>
+     <a href="/MisPaginas/Grupos" class="btn-ghost secondary round"> Volver</a>
+
+</form>
+
+

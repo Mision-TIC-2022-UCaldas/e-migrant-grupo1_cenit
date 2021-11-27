@@ -16,6 +16,7 @@ namespace Dominio.Entidades
         public string direccion {get; set;}
         public string ciudad {get; set;}
         public string situacion_laboral {get; set;}
+        public string contraseña {get; set;}
         
     }
 }
