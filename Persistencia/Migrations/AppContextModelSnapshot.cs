@@ -118,6 +118,27 @@ namespace Persistencia.Migrations
                     b.Property<string>("Ayuda_legal")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Clasificacion_Alimentacion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Alojamiento_permanente")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Alojamiento_temporal")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Ayuda_legal")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Educacion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Empleo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Clasificacion_Salud")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Educacion")
                         .HasColumnType("nvarchar(max)");
 
